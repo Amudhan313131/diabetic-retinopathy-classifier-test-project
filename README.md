@@ -1,5 +1,5 @@
 # Diabetic retinopathy severity classifier
-
+**Live demo:** [huggingface.co/spaces/Amudhan313131/diabetic-retinopathy-classifier](https://huggingface.co/spaces/Amudhan313131/diabetic-retinopathy-classifier)
 A deep learning model that classifies diabetic retinopathy severity from retinal fundus images into 5 grades (0–4) using EfficientNet-B0 with transfer learning.
 
 ## Problem
